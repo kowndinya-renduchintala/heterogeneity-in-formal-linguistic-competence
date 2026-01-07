@@ -1,0 +1,530 @@
+[
+  {
+    "genre": "Conversational and spoken",
+    "subgenres": [
+      "Casual small talk",
+      "Telephone call",
+      "Interview (journalistic)",
+      "Interview (HR screening)",
+      "Debate exchange",
+      "Panel discussion",
+      "Classroom Q&A",
+      "Therapy/counseling dialogue",
+      "Customer support chat",
+      "Podcast transcript excerpt",
+      "Stand-up monologue",
+      "Public announcement",
+      "Toast/eulogy/speech opening"
+    ]
+  },
+  {
+    "genre": "Narrative and storytelling",
+    "subgenres": [
+      "Anecdote",
+      "Personal memoir vignette",
+      "Travelogue",
+      "Historical narrative",
+      "Detective/crime vignette",
+      "Sci-fi micro-story",
+      "Fantasy micro-story",
+      "Horror micro-story",
+      "Slice-of-life scene",
+      "Myth/legend retelling",
+      "Parable/allegory"
+    ]
+  },
+  {
+    "genre": "Descriptive (expository description)",
+    "subgenres": [
+      "Object description",
+      "Person profile",
+      "Place/scene description",
+      "Process description",
+      "Event recounting",
+      "Sensory description",
+      "Comparative description",
+      "Definition with examples"
+    ]
+  },
+  {
+    "genre": "Expository/informational",
+    "subgenres": [
+      "Encyclopedia entry",
+      "Textbook paragraph",
+      "How it works explainer",
+      "Backgrounder/context piece",
+      "FAQ answer",
+      "Glossary entry",
+      "Concept overview",
+      "Myth-busting clarification"
+    ]
+  },
+  {
+    "genre": "Instructional/procedural",
+    "subgenres": [
+      "Step-by-step tutorial",
+      "Recipe",
+      "Assembly/installation guide",
+      "User manual excerpt",
+      "Safety guidelines",
+      "Standard operating procedure (SOP)",
+      "Troubleshooting guide",
+      "Checklist with rationale"
+    ]
+  },
+  {
+    "genre": "Persuasive/argumentative",
+    "subgenres": [
+      "Op-ed",
+      "Editorial",
+      "Position statement",
+      "Debate opening/rebuttal",
+      "Recommendation letter",
+      "Cover letter",
+      "Sales pitch",
+      "Policy brief"
+    ]
+  },
+  {
+    "genre": "Academic/scholarly",
+    "subgenres": [
+      "Abstract",
+      "Introduction (research)",
+      "Literature review paragraph",
+      "Methods description",
+      "Results summary",
+      "Discussion/implications",
+      "Formal definition/theorem statement",
+      "Proof sketch/argumentation",
+      "Footnote/endnote commentary",
+      "Book review (academic)"
+    ]
+  },
+  {
+    "genre": "Technical/scientific and engineering",
+    "subgenres": [
+      "Design document paragraph",
+      "Specification clause",
+      "API reference entry",
+      "Release notes/changelog",
+      "Incident post-mortem summary",
+      "Experiment log",
+      "Bug report",
+      "Feature request",
+      "RFC rationale",
+      "Benchmark report snippet"
+    ]
+  },
+  {
+    "genre": "Legal/regulatory",
+    "subgenres": [
+      "Contract clause",
+      "Terms of service excerpt",
+      "Privacy policy provision",
+      "Statute or regulation clause",
+      "Legal memo analysis",
+      "Case summary/holding",
+      "Cease-and-desist letter",
+      "Witness statement",
+      "Jury instructions",
+      "Warranty/guarantee terms",
+      "License (e.g., open-source) excerpt"
+    ]
+  },
+  {
+    "genre": "Business/professional",
+    "subgenres": [
+      "Executive summary",
+      "Business plan paragraph",
+      "Market analysis paragraph",
+      "KPI/OKR status update",
+      "Meeting agenda item",
+      "Meeting minutes summary",
+      "Internal memo",
+      "RFP/RFI excerpt",
+      "Job description",
+      "Performance review note",
+      "Service level agreement (SLA) clause"
+    ]
+  },
+  {
+    "genre": "News/journalism",
+    "subgenres": [
+      "Straight news lede and nut graf",
+      "Feature story paragraph",
+      "Investigative report paragraph",
+      "Profile piece paragraph",
+      "Analysis column",
+      "Editorial/column",
+      "Sports recap",
+      "Arts/culture review",
+      "Weather report",
+      "Photo caption with context"
+    ]
+  },
+  {
+    "genre": "Government/public administration",
+    "subgenres": [
+      "Public notice",
+      "Press release",
+      "Policy statement/guidance",
+      "Procurement/tender notice",
+      "Census/methodology note",
+      "Advisory/travel notice",
+      "FOIA response summary",
+      "Government report executive summary"
+    ]
+  },
+  {
+    "genre": "Medical/healthcare",
+    "subgenres": [
+      "Patient information leaflet",
+      "Clinical note (SOAP-style narrative)",
+      "Informed consent paragraph",
+      "Lab report interpretation",
+      "Clinical guideline recommendation",
+      "Discharge instructions",
+      "Public health advisory",
+      "Medication counseling points"
+    ]
+  },
+  {
+    "genre": "Finance/economics",
+    "subgenres": [
+      "Earnings report MD&A paragraph",
+      "Macro market commentary",
+      "Fund prospectus snippet",
+      "Loan terms explanation",
+      "Insurance policy clause",
+      "Budget narrative",
+      "Risk disclosure",
+      "Invoice/statement explanation"
+    ]
+  },
+  {
+    "genre": "Technology/consumer product",
+    "subgenres": [
+      "Product description",
+      "Feature comparison paragraph",
+      "Troubleshooting Q&A",
+      "FAQ item",
+      "App store listing paragraph",
+      "Onboarding tips",
+      "UX microcopy rationale",
+      "Privacy/permissions explanation"
+    ]
+  },
+  {
+    "genre": "Culture/religion/philosophy",
+    "subgenres": [
+      "Sermon/homily excerpt",
+      "Prayer/devotional prose",
+      "Catechism Q&A",
+      "Exegesis/interpretation",
+      "Philosophical argument",
+      "Thought experiment",
+      "Ethical case analysis",
+      "Meditation guide"
+    ]
+  },
+  {
+    "genre": "Sports",
+    "subgenres": [
+      "Match preview",
+      "Live commentary recap",
+      "Tactics/analysis piece",
+      "Post-match quotes synthesis",
+      "Scouting report",
+      "Season outlook",
+      "Training guide",
+      "Rule explanation"
+    ]
+  },
+  {
+    "genre": "Entertainment/media",
+    "subgenres": [
+      "Film/TV review",
+      "Plot synopsis",
+      "Episode recap",
+      "Interview excerpt",
+      "Behind-the-scenes note",
+      "Trailer description",
+      "Awards preview",
+      "Fan theory analysis"
+    ]
+  },
+  {
+    "genre": "Social media/digital discourse",
+    "subgenres": [
+      "Blog post paragraph",
+      "Newsletter blurb",
+      "Forum post (discussion prompt)",
+      "Comment/reply with citation",
+      "StackExchange-style answer",
+      "Microblog thread paragraph",
+      "Community guidelines excerpt",
+      "Release announcement (short)"
+    ]
+  },
+  {
+    "genre": "Education/pedagogy",
+    "subgenres": [
+      "Lesson plan objective/explanation",
+      "Exercise/instructions",
+      "Quiz/exam question rationale",
+      "Rubric descriptor (levels)",
+      "Teacher feedback comment",
+      "Syllabus policy paragraph",
+      "Study guide summary",
+      "Concept misconception correction"
+    ]
+  },
+  {
+    "genre": "Everyday documents/forms",
+    "subgenres": [
+      "Personal letter",
+      "Invitation",
+      "Apology/complaint letter",
+      "Thank-you note",
+      "RSVP/confirmation",
+      "Announcement/notice",
+      "Instruction label",
+      "Warning/caution label",
+      "Lost-and-found notice"
+    ]
+  },
+  {
+    "genre": "Advertising/marketing",
+    "subgenres": [
+      "Ad copy paragraph",
+      "Tagline expansion",
+      "Landing page hero blurb",
+      "Case study snippet",
+      "Testimonial narrative",
+      "Brand manifesto",
+      "Positioning statement",
+      "Product comparison pitch"
+    ]
+  },
+  {
+    "genre": "Customer support/service",
+    "subgenres": [
+      "Knowledge base article",
+      "Troubleshooting decision paragraph",
+      "Policy explanation",
+      "Refund/exchange policy",
+      "Escalation summary",
+      "Shipping/returns explanation",
+      "Service outage update",
+      "Satisfaction follow-up note"
+    ]
+  },
+  {
+    "genre": "Fictional micro-forms",
+    "subgenres": [
+      "Epistolary letter (in-world)",
+      "Diary/journal entry",
+      "Dialogue-only scene",
+      "Interior monologue",
+      "Stream-of-consciousness prose",
+      "Alternate history vignette",
+      "Fairytale pastiche",
+      "Parody pastiche"
+    ]
+  },
+  {
+    "genre": "Children's/young audience",
+    "subgenres": [
+      "Picture-book narration (prose)",
+      "Early reader informational paragraph",
+      "School announcement",
+      "Classroom rules",
+      "Didactic story paragraph",
+      "Science explainer for kids",
+      "Simple biography paragraph",
+      "Safety guidance for kids"
+    ]
+  },
+  {
+    "genre": "Historical/archival styles",
+    "subgenres": [
+      "Proclamation/decree",
+      "Telegram-style note",
+      "War dispatch",
+      "Ship's log entry",
+      "Explorer's journal",
+      "19th-century letter prose",
+      "Newspaper archival tone",
+      "Manifesto excerpt"
+    ]
+  },
+  {
+    "genre": "Humor/satire",
+    "subgenres": [
+      "Satirical news paragraph",
+      "Parody instruction",
+      "Comedic rant",
+      "Witty aphorisms in prose",
+      "Spoof review",
+      "Ironical advice column",
+      "Farcical scenario setup",
+      "Dry deadpan exposition"
+    ]
+  },
+  {
+    "genre": "Poetry and verse (prose-poem compatible)",
+    "subgenres": [
+      "Prose poem",
+      "Ode-like descriptive paragraph",
+      "Elegiac reflection",
+      "Ballad narrative in prose",
+      "Lyrical nature sketch",
+      "Epigrammatic prose",
+      "Dramatic monologue (prose)",
+      "Riddle in prose"
+    ]
+  },
+  {
+    "genre": "Lists and structured text",
+    "subgenres": [
+      "Numbered list paragraphing",
+      "Bulleted list with parallelism",
+      "Taxonomy/classification prose",
+      "Decision matrix prose",
+      "Pros/cons evaluation paragraph",
+      "Step-summary overview",
+      "Checklist narrative",
+      "Table-like comparison in sentences"
+    ]
+  },
+  {
+    "genre": "Travel and geography",
+    "subgenres": [
+      "Destination guide paragraph",
+      "Itinerary overview",
+      "Cultural etiquette guidance",
+      "Transit instructions",
+      "Neighborhood guide",
+      "Landmark description",
+      "Travel advisory reasoning",
+      "Packing guide rationale"
+    ]
+  },
+  {
+    "genre": "Environment/agriculture",
+    "subgenres": [
+      "Field report",
+      "Weather advisory reasoning",
+      "Conservation briefing",
+      "Gardening guide",
+      "Farming practice note",
+      "Environmental impact summary",
+      "Species profile",
+      "Trail condition report"
+    ]
+  },
+  {
+    "genre": "Arts and literature",
+    "subgenres": [
+      "Exhibition label text",
+      "Catalog note",
+      "Artist statement",
+      "Curatorial essay paragraph",
+      "Book jacket blurb",
+      "Poetry analysis",
+      "Dramaturg's note",
+      "Music liner notes"
+    ]
+  },
+  {
+    "genre": "Real estate and housing",
+    "subgenres": [
+      "Property listing description",
+      "Neighborhood overview",
+      "Inspection report summary",
+      "Lease clause explanation",
+      "Home improvement guide",
+      "HOA policy excerpt",
+      "Mortgage terms explanation",
+      "Moving checklist prose"
+    ]
+  },
+  {
+    "genre": "Transportation and logistics",
+    "subgenres": [
+      "Timetable/service notice",
+      "Safety announcement",
+      "Incident report",
+      "Route description",
+      "Shipping update",
+      "Packaging instructions",
+      "Driver handbook excerpt",
+      "Airport advisory"
+    ]
+  },
+  {
+    "genre": "Security/privacy/compliance",
+    "subgenres": [
+      "Security advisory",
+      "Vulnerability disclosure note",
+      "Compliance summary",
+      "Data handling policy paragraph",
+      "Incident response overview",
+      "Access control explanation",
+      "Audit finding narrative",
+      "Consent management explanation"
+    ]
+  },
+  {
+    "genre": "Gaming",
+    "subgenres": [
+      "Patch notes",
+      "Game guide/walkthrough paragraph",
+      "Lore entry",
+      "Quest description",
+      "Balance changes rationale",
+      "Strategy analysis",
+      "NPC dialogue blurb",
+      "Release announcement"
+    ]
+  },
+  {
+    "genre": "Food and beverage",
+    "subgenres": [
+      "Menu item description",
+      "Tasting notes",
+      "Recipe headnote",
+      "Pairing guide",
+      "Sourcing story",
+      "Dietary guidance",
+      "Allergen advisory",
+      "Cooking tip rationale"
+    ]
+  },
+  {
+    "genre": "Fashion and lifestyle",
+    "subgenres": [
+      "Lookbook caption paragraph",
+      "Trend report",
+      "Styling guide",
+      "Brand story",
+      "Care instructions",
+      "Sustainability note",
+      "Outfit description",
+      "Grooming advice"
+    ]
+  },
+  {
+    "genre": "Science communication (popular)",
+    "subgenres": [
+      "Layperson explainer",
+      "Q&A format answer",
+      "Myth vs fact paragraph",
+      "Visual description (alt text) in prose",
+      "Public lecture excerpt",
+      "Museum panel prose",
+      "Citizen science note",
+      "Data story narrative"
+    ]
+  }
+]

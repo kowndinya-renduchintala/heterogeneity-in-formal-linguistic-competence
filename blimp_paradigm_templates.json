@@ -1,0 +1,38 @@
+[
+    {
+        "paradigm": "only_npi_scope",
+        "template": "Only {subject_NP} {relativizer} {subject_embedded} {auxiliary_embeded} {verb_embedded} {auxiliary} ever {verb_phrase}"
+    },
+    {
+        "paradigm": "existential_there_quantifiers_2",
+        "template": "{all/every/each/most} {subject_NP} {auxiliary} there {verb_phrase}"
+    },
+    {
+        "paradigm": "wh_vs_that_with_gap_long_distance",
+        "template": "{subject_NP} {verb} {wh_word} {subject_embedded} that {verb_phrase_relative} {verb_embedded}"
+    },
+    {
+        "paradigm": "matrix_question_npi_licensor_present",
+        "template": "{auxiliary} {subject_NP} ever {verb_phrase}"
+    },
+    {
+        "paradigm": "principle_A_reconstruction",
+        "template": "It's {reflexive} {relativizer} {subject_NP} {verb_phrase}"
+    },
+    {
+        "paradigm": "sentential_subject_island",
+        "template": "{wh_word} {verb_do} {{subject_NP_possessive} {verb_ing} {subject_NP}} {verb/verb_phrase}"
+    },
+    {
+        "paradigm": "left_branch_island_echo_question",
+        "template": "{subject} {auxiliary} {verb} {wh_determiner} {noun}"
+    },
+    {
+        "paradigm": "coordinate_structure_constraint_complex_left_branch",
+        "template": "{wh_determiner} {object_noun} {auxiliary} {subject_1} {verb_phrase_1} and {subject_2} {verb_phrase_2}"
+    },
+    {
+        "paradigm": "principle_A_c_command",
+        "template": "{subject_NP_1} {relativizer} {verb_embedded_2} {subject_NP_embedded_2} {verb_phrase_1} {reflexive}"
+    }
+]
